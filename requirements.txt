@@ -1,0 +1,5 @@
+streamlit
+pandas
+pymorphy3
+pymorphy3-dicts-uk
+pytest
